@@ -64,7 +64,7 @@ const App = () => {
                         <img src="./hero.png" alt="Hero Banner" />
                         <h1>
                             Find <span className="text-gradient">Movies</span>{" "}
-                            You'll Enjoy Without the Hassle
+                            You'll Enjoy Hope-O2
                         </h1>
 
                         <Search
